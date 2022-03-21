@@ -19,7 +19,7 @@ Once the primary volunteer puts the link to the Facebook post on his tab, it get
 
 ### #2 creating a Bitly link from a Youtube link with Bitly API
 Creating short URLs bit.ly/3lWmCCW from long URLs https://www.youtube.com/watch?v=46DnVgHD_FM/?utm_source=Best%20series%20on%20Netflix&utm_medium=fb&utm_campaign=poleng&utm_content=Most%20watched%20series%20on%20Netflix
-The UTM parameters are saved and later used by a different application bitly tracking.
+The UTM parameters are saved and later used by a different application for bitly tracking.
 
 ![create-bitlink](gif_create-bitlink.gif)
 
